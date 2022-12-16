@@ -1,0 +1,14 @@
+Step 1
+Create an api in laravel application.
+
+Step 2
+Convert your code in json format.
+
+Step 3
+You can get the database data with the help of the API URL and WordPress fetch query.
+
+Step 4
+With the help of WordPress default shortcode function, you can convert your dynamic in code into a shortcode.
+
+Enjoy your chicken dinner!
+Thanks for Coffee
